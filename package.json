@@ -1,0 +1,12 @@
+{
+  "name": "mi_proyecto",
+  "version": "1.0.0",
+  "description": "- Elemento 1\r - Elemento 2\r   - Subelemento 1\r   - Subelemento 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
